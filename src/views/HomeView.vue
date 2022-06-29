@@ -3,7 +3,7 @@
     <v-row class="align-center">
       <v-col cols="4">
         <v-img
-          src="@/assets/1616179354215.jpg"
+          src="@/assets/img/profilepic.jpg"
         ></v-img>
       </v-col>
       <v-col cols="8" class="text-center">
