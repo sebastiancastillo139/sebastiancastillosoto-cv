@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-carousel height="93vh">
+    <v-carousel height="88vh">
       <v-carousel-item
         v-for="(item, i) in getPortfolio"
         :key="i"
@@ -10,7 +10,7 @@
         reverse-transition="fade-transition"
         transition="fade-transition"
         ><v-row class="fill-height" align="center" justify="center">
-          <div class="text-h1">{{ item.name }}</div>
+          <div class="text-h1 yellow--text black accent-10 pa-15">{{ item.name }}</div>
         </v-row>
       </v-carousel-item>
     </v-carousel>
