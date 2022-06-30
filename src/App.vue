@@ -1,22 +1,22 @@
 <template>
   <v-app>
-    <NavBar/>
+    <NavBar />
     <v-main>
-      <router-view/>
+      <router-view />
     </v-main>
-    <FooterComp/>
+    <FooterComp />
   </v-app>
 </template>
 
 <script>
-import NavBar from './components/NavBar.vue';
-import FooterComp from './components/FooterComp.vue';
+import NavBar from "./components/NavBar.vue";
+import FooterComp from "./components/FooterComp.vue";
 
 export default {
-    name: "App",
-    data: () => ({
+  name: "App",
+  data: () => ({
     //
-    }),
-    components: { NavBar, FooterComp }
+  }),
+  components: { NavBar, FooterComp },
 };
 </script>

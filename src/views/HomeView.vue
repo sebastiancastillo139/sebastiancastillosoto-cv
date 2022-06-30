@@ -41,7 +41,7 @@
             <p class="text-h5 text-center py-5">MI LINKEDIN</p>
           </v-col>
           <v-col cols="12" md="3" align="center">
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/56991710387" target="_blank" rel="noopener noreferrer">
               <v-img
                 contain
                 max-height="150"

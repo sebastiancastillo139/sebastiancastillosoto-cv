@@ -102,9 +102,22 @@
   </v-container>
 </template>
 
-<style scoped>
-li{
-    margin-bottom: 1em;
-}
+<script>
+export default {
+  name: "SebastiancastillosotoCvCurriculumComp",
 
+  data() {
+    return {};
+  },
+
+  mounted() {},
+
+  methods: {},
+};
+</script>
+
+<style scoped>
+li {
+  margin-bottom: 1em;
+}
 </style>
