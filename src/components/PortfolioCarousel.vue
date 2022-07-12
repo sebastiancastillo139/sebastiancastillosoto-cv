@@ -10,7 +10,9 @@
         reverse-transition="fade-transition"
         transition="fade-transition"
         ><v-row class="fill-height" align="center" justify="center">
-          <div class="text-h1 yellow--text black accent-10 pa-15">{{ item.name }}</div>
+          <div class="col-8 text-center text_container">
+            <h2 class="yellow--text">{{ item.name }}</h2>
+          </div>
         </v-row>
       </v-carousel-item>
     </v-carousel>
@@ -29,3 +31,15 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+
+.text_container{
+  background-color: rgb(0, 0, 0, 0.5);
+}
+
+.yellow--text{
+  opacity: 1;
+}
+
+</style>

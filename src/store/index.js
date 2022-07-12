@@ -12,6 +12,11 @@ export default new Vuex.Store({
         name: "Sa-Tour-Now!",
       },
       {
+        src: "https://ia601408.us.archive.org/2/items/sc139-githubportfolio/meetandcoffee.png",
+        link: "https://sebastiancastillo139.github.io/proyectotabo/",
+        name: "Municipalidad",
+      },
+      {
         src: "https://ia601408.us.archive.org/2/items/sc139-githubportfolio/viajeschile.png",
         link: "https://sebastiancastillo139.github.io/Viajes-Chile/",
         name: "Viajes Chile",

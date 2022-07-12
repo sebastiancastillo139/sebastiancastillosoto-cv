@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid>
+  <v-container fluid cols="12">
     <v-row class="align-center">
       <v-col cols="12" md="4">
         <v-img src="@/assets/img/profilepic.jpg"></v-img>
@@ -8,6 +8,15 @@
         <v-row justify="center" class="my-5">
           <h2 class="text-h2 py-3">SEBASTIÁN CASTILLO SOTO</h2>
           <h4 class="text-h4 py-3">PSICÓLOGO Y DESARROLLADOR WEB</h4>
+        </v-row>
+        <v-row cols="12" md="8" class="text-center mx-auto">
+          <v-btn
+            elevation="9"
+            x-large
+            class="col-10 col-xl-4 primary mx-auto pa-7 my-5 text-button text-lg-h4"
+            href="https://archive.org/download/sc139-githubportfolio/CV-Desarrollador.pdf"
+            >DESCARGA MI CV</v-btn
+          >
         </v-row>
         <v-row justify="center">
           <v-col cols="12" md="3" align="center">
@@ -41,7 +50,11 @@
             <p class="text-h5 text-center py-5">MI LINKEDIN</p>
           </v-col>
           <v-col cols="12" md="3" align="center">
-            <a href="https://wa.me/56991710387" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://wa.me/56991710387"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <v-img
                 contain
                 max-height="150"
