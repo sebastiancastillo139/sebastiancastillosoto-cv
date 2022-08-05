@@ -2,7 +2,7 @@
   <v-container fluid cols="12">
     <v-row class="align-center">
       <v-col cols="12" md="4">
-        <v-img src="@/assets/img/profilepic.jpg"></v-img>
+        <v-img src="@/assets/img/FOTO CV informal 1.jpg"></v-img>
       </v-col>
       <v-col cols="12" md="8" class="text-center">
         <v-row justify="center" class="my-5">
@@ -14,7 +14,7 @@
             elevation="9"
             x-large
             class="col-10 col-xl-4 primary mx-auto pa-7 my-5 text-button text-lg-h4"
-            href="https://archive.org/download/sc139-githubportfolio/CV-Desarrollador.pdf"
+            href="https://media-exp1.licdn.com/dms/document/C4E2DAQF4gYJU_IByeA/profile-treasury-document-pdf-analyzed/0/1659737965247?e=1660780800&v=beta&t=sVEHo7ya0QZXGoePPQgsGz3ZS6iMzz6ExrxAfRFfGp8"
             >DESCARGA MI CV</v-btn
           >
         </v-row>
