@@ -1,18 +1,14 @@
 <template>
   <div class="about">
-    <PortfolioCarousel/>
+    <PortfolioCardComp/>
   </div>
 </template>
 
-
 <script>
-import PortfolioCarousel from '@/components/PortfolioCarousel.vue';
+import PortfolioCardComp from "@/components/PortfolioCardComp.vue";
 
 export default {
-    name: "App",
-    data: () => ({
-    //
-    }),
-    components: { PortfolioCarousel }
+  name: "App",
+  components: { PortfolioCardComp },
 };
 </script>
