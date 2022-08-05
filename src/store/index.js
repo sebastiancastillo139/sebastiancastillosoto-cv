@@ -12,7 +12,7 @@ export default new Vuex.Store({
         name: "Sa-Tour-Now!",
       },
       {
-        src: "https://ia601408.us.archive.org/2/items/sc139-githubportfolio/meetandcoffee.png",
+        src: "https://ia801408.us.archive.org/2/items/sc139-githubportfolio/proyectotabo.png",
         link: "https://sebastiancastillo139.github.io/proyectotabo/",
         name: "Municipalidad",
       },
