@@ -51,7 +51,7 @@
           </v-col>
           <v-col cols="12" md="3" align="center">
             <a
-              href="https://wa.me/56991710387"
+              href="https://www.linkedin.com/scastillos/"
               target="_blank"
               rel="noopener noreferrer"
             >
